@@ -33,6 +33,7 @@ header, ul {
       width: 960px;
       padding: 20px;
       margin: 0 auto;
+      color: white;
     }
     
     nav img {
@@ -48,6 +49,20 @@ header, ul {
       padding: 20px;
     }
 
+    h2 {
+        font-family:Verdana;
+        font-size: 400%;
+        font-weight: bold;
+        color: white;
+        text-align: center;
+        }
+        h2 {
+            font-family:Verdana;
+            font-size: 400%;
+            font-weight: bold;
+            color: white;
+            text-align: center;
+            }
     footer {
         width: 400px;
         height:200px;
