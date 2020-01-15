@@ -7,3 +7,43 @@ body {
     font-family:Verdana;
     color: white;
 }
+header, ul {
+    display: inline-flex;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    background-color: rgb(89, 192, 68);
+    height: 100px;
+    
+  }
+  h1 {
+    font-family:Verdana;
+    font-size: 400%;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    }
+    p {
+      position:float right;
+      background-color: rgb(89, 192, 68);
+    }
+    nav {
+      width: 960px;
+      padding: 20px;
+      margin: 0 auto;
+    }
+    
+    nav img {
+      float: left;
+      margin-top: 15px;
+      margin-right: 30px;
+    }
+    
+    nav li {
+      display: inline-block;
+      margin-top: 40px;
+      margin-right: 60px;
+      padding: 20px;
+    }
