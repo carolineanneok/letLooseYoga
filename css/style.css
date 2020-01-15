@@ -47,3 +47,10 @@ header, ul {
       margin-right: 60px;
       padding: 20px;
     }
+
+    footer {
+        width: 400px;
+        height:200px;
+        color: white;
+       
+      } 
