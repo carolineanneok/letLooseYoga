@@ -16,18 +16,24 @@ body {
   background:("");
   background-repeat: no-repeat;
   background-size: cover;
-  display: inline-block;
-  margin:0 auto
+  display: block;
+
 }
 
 header {
   display: center;
+  margin:0 auto
+  border:0 auto;
+  border-color:
+  padding:0 auto;
 }
 
 header, ul {
     display: center;
     margin-left: auto;
     margin-right: auto;
+    border: ;
+    padding: ;
     justify-content: center;
     align-content: center;
     text-align: center;
@@ -64,13 +70,17 @@ header, ul {
 
     nav {
       width: 980px;
+      margin: auto;
+      border: rgb(212, 243, 207);align-self: auto;;
       padding: 10px;
+      height: auto;
       margin: 0 auto;
       color: white;
     }
     nav ul{
       font-size: 40px;
       color:green;
+      margin: auto;
       padding:10px 24px;
       display:inline-block;
       background-color: rgb(212, 243, 207);
@@ -102,7 +112,7 @@ header, ul {
             }
             h3 {
               font-family:Verdana;
-              font-size: 300%;
+              font-size: 200%;
               font-weight: bold;
               color: white;
               text-align: center;
@@ -163,8 +173,11 @@ header, ul {
               }
 
     footer {
-        width: 400px;
-        height:200px;
+      font-display:inline-block;
+        width: 980px;
+        height:20px;
         color: white;
-       
+        border-radius: 0px;
+        background-color: rgb(212, 243, 207);
+      
       } 
