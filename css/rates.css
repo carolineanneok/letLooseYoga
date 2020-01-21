@@ -23,6 +23,7 @@
   header {
     display: center;
     margin:0 auto
+  
   }
   
   header, ul {
@@ -30,7 +31,7 @@
       margin-left: auto;
       margin-right: auto;
       border: 0 auto;
-      padding:0 auto;
+      padding:0 auto ;
       justify-content: center;
       align-content: center;
       text-align: center;
