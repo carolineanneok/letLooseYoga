@@ -55,6 +55,8 @@
     }
    
       p {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 30px;
         position:center;
         background-color: rgb(89, 192, 68);
         text-align: center;
@@ -67,7 +69,7 @@
   
       nav {
         width: 980px;
-        margin: auto;
+    
         border: rgb(212, 243, 207);align-self: auto;;
         padding: 10px;
         height: auto;
@@ -89,13 +91,13 @@
         margin-top: 40px;
         margin-right: 60px;
         padding: 20px;
-        font-family: cursive;
-        font-size: medium;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 20px;
         color: white;
       }
       h1 {
         font-family:Verdana;
-        font-size: 400%;
+        font-size: 70px;
         font-weight: bold;
         color: white;
         text-align: inline-block;
@@ -109,7 +111,7 @@
               }
               h3 {
                 font-family:Verdana;
-                font-size: 200%;
+                font-size: 20px;
                 font-weight: bold;
                 color: white;
                 text-align: center;

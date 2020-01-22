@@ -58,6 +58,7 @@
       p {
         position:center;
         font-size: 20px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
         background-color: rgb(89, 192, 68);
         text-align: center;
       }
@@ -73,15 +74,16 @@
         margin:0 auto
       }
   
-      nav {
+      nav id {
         width: 980px;
         margin: auto;
-        border: rgb(212, 243, 207);align-self: auto;;
+        border: rgb(212, 243, 207);align-self: auto;
         padding: 10px;
         height: auto;
         margin: 0 auto;
         color: white;
       }
+
       nav ul{
         font-size: 40px;
         color:green;
@@ -97,7 +99,7 @@
         margin-top: 40px;
         margin-right: 60px;
         padding: 20px;
-        font-family: cursive;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
         font-size: medium;
         color: white;
       }
