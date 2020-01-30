@@ -26,7 +26,7 @@ header {
 
 }
 
-header, ul {
+header ul {
     display: center;
     margin-left: auto;
     margin-right: auto;
@@ -38,7 +38,15 @@ header, ul {
     background-color: rgb(89, 192, 68);
     height: 100px; 
   }
-
+header li{
+  display: inline-block;
+    margin-top: 40px;
+    margin-right: 60px;
+    padding: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    color: white;
+}
 
   .img {
     margin: 0 auto;
@@ -50,7 +58,7 @@ header, ul {
     }
 
   
-  nav{
+  nav {
     width: 980px;
     border: rgb(212, 243, 207);align-self: auto;;
     padding: 10px;
@@ -102,11 +110,10 @@ header, ul {
             
        main{
           display: inline-block;
-         
         }
 
 
-       ul{
+       main.ul{
         margin:0 auto;
         border: 6 px;
         padding: 20px 0;
@@ -114,7 +121,7 @@ header, ul {
         align-content: center;  
         }
 
-      li {
+      main.li {
         font-family: Verdana, Geneva, Tahoma, sans-serif;
         font-size: 20 px;
         text-align: center;
